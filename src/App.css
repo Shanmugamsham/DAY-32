@@ -1,5 +1,5 @@
 .imgsizing{
-    width:100%;
+    width:80%;
     border-radius:25px;
     margin-top:30px;
 }
@@ -65,7 +65,7 @@ p{
 
 .free1{
     color: rgb(0, 0, 0);
-    font-size:20px;
+    font-size:35px;
     text-align:left;
     font-family:'Times New Roman', Times, serif;
 }
@@ -74,4 +74,18 @@ p{
     font-size:20px;
     text-align:right;
     font-family:'Times New Roman', Times, serif;
+}
+.secondbtn{
+    margin-top:100px;
+}
+button{
+    background-color:black;
+    
+}
+.freetotal{
+    color: rgb(0, 0, 255);
+    font-size:35px;
+    text-align:right;
+    font-family:'Times New Roman', Times, serif;
+
 }
